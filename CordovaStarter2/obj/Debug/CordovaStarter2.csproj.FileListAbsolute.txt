@@ -1,0 +1,14 @@
+c:\users\max\documents\visual studio 2010\Projects\CordovaStarter2\CordovaStarter2\Bin\Debug\ApplicationIcon.png
+c:\users\max\documents\visual studio 2010\Projects\CordovaStarter2\CordovaStarter2\Bin\Debug\Background.png
+c:\users\max\documents\visual studio 2010\Projects\CordovaStarter2\CordovaStarter2\Bin\Debug\CordovaStarter2.dll
+c:\users\max\documents\visual studio 2010\Projects\CordovaStarter2\CordovaStarter2\Bin\Debug\CordovaStarter2.pdb
+c:\users\max\documents\visual studio 2010\Projects\CordovaStarter2\CordovaStarter2\Bin\Debug\AppManifest.xaml
+c:\users\max\documents\visual studio 2010\Projects\CordovaStarter2\CordovaStarter2\Bin\Debug\CordovaStarter2.xap
+c:\users\max\documents\visual studio 2010\Projects\CordovaStarter2\CordovaStarter2\Bin\Debug\WP7CordovaClassLib.dll
+c:\users\max\documents\visual studio 2010\Projects\CordovaStarter2\CordovaStarter2\obj\Debug\ResolveAssemblyReference.cache
+c:\users\max\documents\visual studio 2010\Projects\CordovaStarter2\CordovaStarter2\obj\Debug\App.g.i.cs
+c:\users\max\documents\visual studio 2010\Projects\CordovaStarter2\CordovaStarter2\obj\Debug\MainPage.g.i.cs
+c:\users\max\documents\visual studio 2010\Projects\CordovaStarter2\CordovaStarter2\obj\Debug\CordovaStarter2.g.resources
+c:\users\max\documents\visual studio 2010\Projects\CordovaStarter2\CordovaStarter2\obj\Debug\CordovaStarter2.dll
+c:\users\max\documents\visual studio 2010\Projects\CordovaStarter2\CordovaStarter2\obj\Debug\CordovaStarter2.pdb
+c:\users\max\documents\visual studio 2010\Projects\CordovaStarter2\CordovaStarter2\obj\Debug\XapCacheFile.xml
